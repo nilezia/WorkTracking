@@ -31,7 +31,7 @@ public class MainLoginActivity extends ActionBarActivity {
         btn_login = (Button) findViewById(R.id.BTN_LOGIN);
         tv_register = (TextView) findViewById(R.id.TV_REGISTER);
         mMainLoginController = new MainLoginController(this);
-
+        //
     }
 
     public TextView getTv_register() {
